@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "F:/sm/DSAwithC++"
+		},
+		{
+			"path": "../../../../../DSAwithC++"
+		},
+		{
+			"path": "F:/sm/Python_Lab"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
