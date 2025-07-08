@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-🌐 **[Launch the App Here](https://gq34ppasvj7gqcv5dyrcd4.streamlit.app/)**
+🌐 **[Launch the App Here][(https://gq34ppasvj7gqcv5dyrcd4.streamlit.app/)]**
 
 ---
 
